@@ -1,0 +1,118 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "AmericaFlagsClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/AmericaFlagsClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AmericaFlagsClassLibrary.dll": {}
+        }
+      },
+      "WorldFlagsClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/WorldFlagsClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WorldFlagsClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AmericaFlagsClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../AmericaFlagsClassLibrary/AmericaFlagsClassLibrary.csproj",
+      "msbuildProject": "../AmericaFlagsClassLibrary/AmericaFlagsClassLibrary.csproj"
+    },
+    "WorldFlagsClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../WorldFlagsClassLibrary/WorldFlagsClassLibrary.csproj",
+      "msbuildProject": "../WorldFlagsClassLibrary/WorldFlagsClassLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "AmericaFlagsClassLibrary >= 1.0.0",
+      "WorldFlagsClassLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Jane\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Jane\\Documents\\TareasDeEventos\\Vexillology v5\\Vexillology v4\\Vexillology v4.csproj",
+      "projectName": "Vexillology v4",
+      "projectPath": "C:\\Users\\Jane\\Documents\\TareasDeEventos\\Vexillology v5\\Vexillology v4\\Vexillology v4.csproj",
+      "packagesPath": "C:\\Users\\Jane\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jane\\Documents\\TareasDeEventos\\Vexillology v5\\Vexillology v4\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Jane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Jane\\Documents\\TareasDeEventos\\Vexillology v5\\AmericaFlagsClassLibrary\\AmericaFlagsClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\Jane\\Documents\\TareasDeEventos\\Vexillology v5\\AmericaFlagsClassLibrary\\AmericaFlagsClassLibrary.csproj"
+            },
+            "C:\\Users\\Jane\\Documents\\TareasDeEventos\\Vexillology v5\\WorldFlagsClassLibrary\\WorldFlagsClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\Jane\\Documents\\TareasDeEventos\\Vexillology v5\\WorldFlagsClassLibrary\\WorldFlagsClassLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+C:\Users\Jane\source\repos\Vexillology v4\WorldFlagsClassLibrary\bin\Debug\net8.0\WorldFlagsClassLibrary.deps.json
+C:\Users\Jane\source\repos\Vexillology v4\WorldFlagsClassLibrary\bin\Debug\net8.0\WorldFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v4\WorldFlagsClassLibrary\bin\Debug\net8.0\WorldFlagsClassLibrary.pdb
+C:\Users\Jane\source\repos\Vexillology v4\WorldFlagsClassLibrary\obj\Debug\net8.0\WorldFlagsClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jane\source\repos\Vexillology v4\WorldFlagsClassLibrary\obj\Debug\net8.0\WorldFlagsClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Jane\source\repos\Vexillology v4\WorldFlagsClassLibrary\obj\Debug\net8.0\WorldFlagsClassLibrary.AssemblyInfo.cs
+C:\Users\Jane\source\repos\Vexillology v4\WorldFlagsClassLibrary\obj\Debug\net8.0\WorldFlagsClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jane\source\repos\Vexillology v4\WorldFlagsClassLibrary\obj\Debug\net8.0\WorldFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v4\WorldFlagsClassLibrary\obj\Debug\net8.0\refint\WorldFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v4\WorldFlagsClassLibrary\obj\Debug\net8.0\WorldFlagsClassLibrary.pdb
+C:\Users\Jane\source\repos\Vexillology v4\WorldFlagsClassLibrary\obj\Debug\net8.0\ref\WorldFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v4 backup\WorldFlagsClassLibrary\bin\Debug\net8.0\WorldFlagsClassLibrary.deps.json
+C:\Users\Jane\source\repos\Vexillology v4 backup\WorldFlagsClassLibrary\bin\Debug\net8.0\WorldFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v4 backup\WorldFlagsClassLibrary\bin\Debug\net8.0\WorldFlagsClassLibrary.pdb
+C:\Users\Jane\source\repos\Vexillology v4 backup\WorldFlagsClassLibrary\obj\Debug\net8.0\WorldFlagsClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jane\source\repos\Vexillology v4 backup\WorldFlagsClassLibrary\obj\Debug\net8.0\WorldFlagsClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Jane\source\repos\Vexillology v4 backup\WorldFlagsClassLibrary\obj\Debug\net8.0\WorldFlagsClassLibrary.AssemblyInfo.cs
+C:\Users\Jane\source\repos\Vexillology v4 backup\WorldFlagsClassLibrary\obj\Debug\net8.0\WorldFlagsClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jane\source\repos\Vexillology v4 backup\WorldFlagsClassLibrary\obj\Debug\net8.0\WorldFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v4 backup\WorldFlagsClassLibrary\obj\Debug\net8.0\refint\WorldFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v4 backup\WorldFlagsClassLibrary\obj\Debug\net8.0\WorldFlagsClassLibrary.pdb
+C:\Users\Jane\source\repos\Vexillology v4 backup\WorldFlagsClassLibrary\obj\Debug\net8.0\ref\WorldFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v5\WorldFlagsClassLibrary\bin\Debug\net8.0\WorldFlagsClassLibrary.deps.json
+C:\Users\Jane\source\repos\Vexillology v5\WorldFlagsClassLibrary\bin\Debug\net8.0\WorldFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v5\WorldFlagsClassLibrary\bin\Debug\net8.0\WorldFlagsClassLibrary.pdb
+C:\Users\Jane\source\repos\Vexillology v5\WorldFlagsClassLibrary\obj\Debug\net8.0\WorldFlagsClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jane\source\repos\Vexillology v5\WorldFlagsClassLibrary\obj\Debug\net8.0\WorldFlagsClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Jane\source\repos\Vexillology v5\WorldFlagsClassLibrary\obj\Debug\net8.0\WorldFlagsClassLibrary.AssemblyInfo.cs
+C:\Users\Jane\source\repos\Vexillology v5\WorldFlagsClassLibrary\obj\Debug\net8.0\WorldFlagsClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jane\source\repos\Vexillology v5\WorldFlagsClassLibrary\obj\Debug\net8.0\WorldFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v5\WorldFlagsClassLibrary\obj\Debug\net8.0\refint\WorldFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v5\WorldFlagsClassLibrary\obj\Debug\net8.0\WorldFlagsClassLibrary.pdb
+C:\Users\Jane\source\repos\Vexillology v5\WorldFlagsClassLibrary\obj\Debug\net8.0\ref\WorldFlagsClassLibrary.dll

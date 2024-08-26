@@ -1,0 +1,33 @@
+C:\Users\Jane\source\repos\Vexillology v4\AmericaFlagsClassLibrary\bin\Debug\net8.0\AmericaFlagsClassLibrary.deps.json
+C:\Users\Jane\source\repos\Vexillology v4\AmericaFlagsClassLibrary\bin\Debug\net8.0\AmericaFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v4\AmericaFlagsClassLibrary\bin\Debug\net8.0\AmericaFlagsClassLibrary.pdb
+C:\Users\Jane\source\repos\Vexillology v4\AmericaFlagsClassLibrary\obj\Debug\net8.0\AmericaFlagsClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jane\source\repos\Vexillology v4\AmericaFlagsClassLibrary\obj\Debug\net8.0\AmericaFlagsClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Jane\source\repos\Vexillology v4\AmericaFlagsClassLibrary\obj\Debug\net8.0\AmericaFlagsClassLibrary.AssemblyInfo.cs
+C:\Users\Jane\source\repos\Vexillology v4\AmericaFlagsClassLibrary\obj\Debug\net8.0\AmericaFlagsClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jane\source\repos\Vexillology v4\AmericaFlagsClassLibrary\obj\Debug\net8.0\AmericaFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v4\AmericaFlagsClassLibrary\obj\Debug\net8.0\refint\AmericaFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v4\AmericaFlagsClassLibrary\obj\Debug\net8.0\AmericaFlagsClassLibrary.pdb
+C:\Users\Jane\source\repos\Vexillology v4\AmericaFlagsClassLibrary\obj\Debug\net8.0\ref\AmericaFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v4 backup\AmericaFlagsClassLibrary\bin\Debug\net8.0\AmericaFlagsClassLibrary.deps.json
+C:\Users\Jane\source\repos\Vexillology v4 backup\AmericaFlagsClassLibrary\bin\Debug\net8.0\AmericaFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v4 backup\AmericaFlagsClassLibrary\bin\Debug\net8.0\AmericaFlagsClassLibrary.pdb
+C:\Users\Jane\source\repos\Vexillology v4 backup\AmericaFlagsClassLibrary\obj\Debug\net8.0\AmericaFlagsClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jane\source\repos\Vexillology v4 backup\AmericaFlagsClassLibrary\obj\Debug\net8.0\AmericaFlagsClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Jane\source\repos\Vexillology v4 backup\AmericaFlagsClassLibrary\obj\Debug\net8.0\AmericaFlagsClassLibrary.AssemblyInfo.cs
+C:\Users\Jane\source\repos\Vexillology v4 backup\AmericaFlagsClassLibrary\obj\Debug\net8.0\AmericaFlagsClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jane\source\repos\Vexillology v4 backup\AmericaFlagsClassLibrary\obj\Debug\net8.0\AmericaFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v4 backup\AmericaFlagsClassLibrary\obj\Debug\net8.0\refint\AmericaFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v4 backup\AmericaFlagsClassLibrary\obj\Debug\net8.0\AmericaFlagsClassLibrary.pdb
+C:\Users\Jane\source\repos\Vexillology v4 backup\AmericaFlagsClassLibrary\obj\Debug\net8.0\ref\AmericaFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v5\AmericaFlagsClassLibrary\bin\Debug\net8.0\AmericaFlagsClassLibrary.deps.json
+C:\Users\Jane\source\repos\Vexillology v5\AmericaFlagsClassLibrary\bin\Debug\net8.0\AmericaFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v5\AmericaFlagsClassLibrary\bin\Debug\net8.0\AmericaFlagsClassLibrary.pdb
+C:\Users\Jane\source\repos\Vexillology v5\AmericaFlagsClassLibrary\obj\Debug\net8.0\AmericaFlagsClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jane\source\repos\Vexillology v5\AmericaFlagsClassLibrary\obj\Debug\net8.0\AmericaFlagsClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Jane\source\repos\Vexillology v5\AmericaFlagsClassLibrary\obj\Debug\net8.0\AmericaFlagsClassLibrary.AssemblyInfo.cs
+C:\Users\Jane\source\repos\Vexillology v5\AmericaFlagsClassLibrary\obj\Debug\net8.0\AmericaFlagsClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jane\source\repos\Vexillology v5\AmericaFlagsClassLibrary\obj\Debug\net8.0\AmericaFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v5\AmericaFlagsClassLibrary\obj\Debug\net8.0\refint\AmericaFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v5\AmericaFlagsClassLibrary\obj\Debug\net8.0\AmericaFlagsClassLibrary.pdb
+C:\Users\Jane\source\repos\Vexillology v5\AmericaFlagsClassLibrary\obj\Debug\net8.0\ref\AmericaFlagsClassLibrary.dll

@@ -1,0 +1,198 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jane\\Documents\\TareasDeEventos\\Vexillology v5\\Vexillology v4\\Vexillology v4.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jane\\Documents\\TareasDeEventos\\Vexillology v5\\AmericaFlagsClassLibrary\\AmericaFlagsClassLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jane\\Documents\\TareasDeEventos\\Vexillology v5\\AmericaFlagsClassLibrary\\AmericaFlagsClassLibrary.csproj",
+        "projectName": "AmericaFlagsClassLibrary",
+        "projectPath": "C:\\Users\\Jane\\Documents\\TareasDeEventos\\Vexillology v5\\AmericaFlagsClassLibrary\\AmericaFlagsClassLibrary.csproj",
+        "packagesPath": "C:\\Users\\Jane\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jane\\Documents\\TareasDeEventos\\Vexillology v5\\AmericaFlagsClassLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jane\\Documents\\TareasDeEventos\\Vexillology v5\\Vexillology v4\\Vexillology v4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jane\\Documents\\TareasDeEventos\\Vexillology v5\\Vexillology v4\\Vexillology v4.csproj",
+        "projectName": "Vexillology v4",
+        "projectPath": "C:\\Users\\Jane\\Documents\\TareasDeEventos\\Vexillology v5\\Vexillology v4\\Vexillology v4.csproj",
+        "packagesPath": "C:\\Users\\Jane\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jane\\Documents\\TareasDeEventos\\Vexillology v5\\Vexillology v4\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Jane\\Documents\\TareasDeEventos\\Vexillology v5\\AmericaFlagsClassLibrary\\AmericaFlagsClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\Jane\\Documents\\TareasDeEventos\\Vexillology v5\\AmericaFlagsClassLibrary\\AmericaFlagsClassLibrary.csproj"
+              },
+              "C:\\Users\\Jane\\Documents\\TareasDeEventos\\Vexillology v5\\WorldFlagsClassLibrary\\WorldFlagsClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\Jane\\Documents\\TareasDeEventos\\Vexillology v5\\WorldFlagsClassLibrary\\WorldFlagsClassLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jane\\Documents\\TareasDeEventos\\Vexillology v5\\WorldFlagsClassLibrary\\WorldFlagsClassLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jane\\Documents\\TareasDeEventos\\Vexillology v5\\WorldFlagsClassLibrary\\WorldFlagsClassLibrary.csproj",
+        "projectName": "WorldFlagsClassLibrary",
+        "projectPath": "C:\\Users\\Jane\\Documents\\TareasDeEventos\\Vexillology v5\\WorldFlagsClassLibrary\\WorldFlagsClassLibrary.csproj",
+        "packagesPath": "C:\\Users\\Jane\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jane\\Documents\\TareasDeEventos\\Vexillology v5\\WorldFlagsClassLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

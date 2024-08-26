@@ -1,0 +1,73 @@
+C:\Users\Jane\source\repos\Vexillology v4\Vexillology v4\bin\Debug\net8.0-windows\Vexillology v4.exe
+C:\Users\Jane\source\repos\Vexillology v4\Vexillology v4\bin\Debug\net8.0-windows\Vexillology v4.deps.json
+C:\Users\Jane\source\repos\Vexillology v4\Vexillology v4\bin\Debug\net8.0-windows\Vexillology v4.runtimeconfig.json
+C:\Users\Jane\source\repos\Vexillology v4\Vexillology v4\bin\Debug\net8.0-windows\Vexillology v4.dll
+C:\Users\Jane\source\repos\Vexillology v4\Vexillology v4\bin\Debug\net8.0-windows\Vexillology v4.pdb
+C:\Users\Jane\source\repos\Vexillology v4\Vexillology v4\obj\Debug\net8.0-windows\Vexillology_v4.AmericaFlagsForm.resources
+C:\Users\Jane\source\repos\Vexillology v4\Vexillology v4\obj\Debug\net8.0-windows\Vexillology_v4.MainForm.resources
+C:\Users\Jane\source\repos\Vexillology v4\Vexillology v4\obj\Debug\net8.0-windows\Vexillology_v4.WorldFlagsForm.resources
+C:\Users\Jane\source\repos\Vexillology v4\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.csproj.GenerateResource.cache
+C:\Users\Jane\source\repos\Vexillology v4\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jane\source\repos\Vexillology v4\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.AssemblyInfoInputs.cache
+C:\Users\Jane\source\repos\Vexillology v4\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.AssemblyInfo.cs
+C:\Users\Jane\source\repos\Vexillology v4\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.csproj.CoreCompileInputs.cache
+C:\Users\Jane\source\repos\Vexillology v4\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.dll
+C:\Users\Jane\source\repos\Vexillology v4\Vexillology v4\obj\Debug\net8.0-windows\refint\Vexillology v4.dll
+C:\Users\Jane\source\repos\Vexillology v4\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.pdb
+C:\Users\Jane\source\repos\Vexillology v4\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.genruntimeconfig.cache
+C:\Users\Jane\source\repos\Vexillology v4\Vexillology v4\obj\Debug\net8.0-windows\ref\Vexillology v4.dll
+C:\Users\Jane\source\repos\Vexillology v4\Vexillology v4\bin\Debug\net8.0-windows\AmericaFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v4\Vexillology v4\bin\Debug\net8.0-windows\WorldFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v4\Vexillology v4\bin\Debug\net8.0-windows\AmericaFlagsClassLibrary.pdb
+C:\Users\Jane\source\repos\Vexillology v4\Vexillology v4\bin\Debug\net8.0-windows\WorldFlagsClassLibrary.pdb
+C:\Users\Jane\source\repos\Vexillology v4\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.csproj.AssemblyReference.cache
+C:\Users\Jane\source\repos\Vexillology v4\Vexillology v4\obj\Debug\net8.0-windows\Vexillol.E64F8D23.Up2Date
+C:\Users\Jane\source\repos\Vexillology v4 backup\Vexillology v4\bin\Debug\net8.0-windows\Vexillology v4.exe
+C:\Users\Jane\source\repos\Vexillology v4 backup\Vexillology v4\bin\Debug\net8.0-windows\Vexillology v4.deps.json
+C:\Users\Jane\source\repos\Vexillology v4 backup\Vexillology v4\bin\Debug\net8.0-windows\Vexillology v4.runtimeconfig.json
+C:\Users\Jane\source\repos\Vexillology v4 backup\Vexillology v4\bin\Debug\net8.0-windows\Vexillology v4.dll
+C:\Users\Jane\source\repos\Vexillology v4 backup\Vexillology v4\bin\Debug\net8.0-windows\Vexillology v4.pdb
+C:\Users\Jane\source\repos\Vexillology v4 backup\Vexillology v4\bin\Debug\net8.0-windows\AmericaFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v4 backup\Vexillology v4\bin\Debug\net8.0-windows\WorldFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v4 backup\Vexillology v4\bin\Debug\net8.0-windows\AmericaFlagsClassLibrary.pdb
+C:\Users\Jane\source\repos\Vexillology v4 backup\Vexillology v4\bin\Debug\net8.0-windows\WorldFlagsClassLibrary.pdb
+C:\Users\Jane\source\repos\Vexillology v4 backup\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.csproj.AssemblyReference.cache
+C:\Users\Jane\source\repos\Vexillology v4 backup\Vexillology v4\obj\Debug\net8.0-windows\Vexillology_v4.AmericaFlagsForm.resources
+C:\Users\Jane\source\repos\Vexillology v4 backup\Vexillology v4\obj\Debug\net8.0-windows\Vexillology_v4.MainForm.resources
+C:\Users\Jane\source\repos\Vexillology v4 backup\Vexillology v4\obj\Debug\net8.0-windows\Vexillology_v4.WorldFlagsForm.resources
+C:\Users\Jane\source\repos\Vexillology v4 backup\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.csproj.GenerateResource.cache
+C:\Users\Jane\source\repos\Vexillology v4 backup\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jane\source\repos\Vexillology v4 backup\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.AssemblyInfoInputs.cache
+C:\Users\Jane\source\repos\Vexillology v4 backup\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.AssemblyInfo.cs
+C:\Users\Jane\source\repos\Vexillology v4 backup\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.csproj.CoreCompileInputs.cache
+C:\Users\Jane\source\repos\Vexillology v4 backup\Vexillology v4\obj\Debug\net8.0-windows\Vexillol.E64F8D23.Up2Date
+C:\Users\Jane\source\repos\Vexillology v4 backup\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.dll
+C:\Users\Jane\source\repos\Vexillology v4 backup\Vexillology v4\obj\Debug\net8.0-windows\refint\Vexillology v4.dll
+C:\Users\Jane\source\repos\Vexillology v4 backup\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.pdb
+C:\Users\Jane\source\repos\Vexillology v4 backup\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.genruntimeconfig.cache
+C:\Users\Jane\source\repos\Vexillology v4 backup\Vexillology v4\obj\Debug\net8.0-windows\ref\Vexillology v4.dll
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.csproj.AssemblyReference.cache
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\obj\Debug\net8.0-windows\Vexillology_v4.AmericaFlagsForm.resources
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\obj\Debug\net8.0-windows\Vexillology_v4.MainForm.resources
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\obj\Debug\net8.0-windows\Vexillology_v4.WorldFlagsForm.resources
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.csproj.GenerateResource.cache
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.AssemblyInfoInputs.cache
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.AssemblyInfo.cs
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.csproj.CoreCompileInputs.cache
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.dll
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\obj\Debug\net8.0-windows\refint\Vexillology v4.dll
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.pdb
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\bin\Debug\net8.0-windows\Vexillology v4.exe
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\bin\Debug\net8.0-windows\Vexillology v4.deps.json
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\bin\Debug\net8.0-windows\Vexillology v4.runtimeconfig.json
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\bin\Debug\net8.0-windows\Vexillology v4.dll
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\bin\Debug\net8.0-windows\Vexillology v4.pdb
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\bin\Debug\net8.0-windows\AmericaFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\bin\Debug\net8.0-windows\WorldFlagsClassLibrary.dll
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\bin\Debug\net8.0-windows\AmericaFlagsClassLibrary.pdb
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\bin\Debug\net8.0-windows\WorldFlagsClassLibrary.pdb
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\obj\Debug\net8.0-windows\Vexillol.E64F8D23.Up2Date
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\obj\Debug\net8.0-windows\Vexillology v4.genruntimeconfig.cache
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\obj\Debug\net8.0-windows\ref\Vexillology v4.dll
+C:\Users\Jane\source\repos\Vexillology v5\Vexillology v4\obj\Debug\net8.0-windows\Vexillology_v4.Properties.Resources.resources

@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Vexillology v4/1.0.0": {
+        "dependencies": {
+          "AmericaFlagsClassLibrary": "1.0.0",
+          "WorldFlagsClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Vexillology v4.dll": {}
+        }
+      },
+      "AmericaFlagsClassLibrary/1.0.0": {
+        "runtime": {
+          "AmericaFlagsClassLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "WorldFlagsClassLibrary/1.0.0": {
+        "runtime": {
+          "WorldFlagsClassLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vexillology v4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AmericaFlagsClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorldFlagsClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
